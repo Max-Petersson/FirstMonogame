@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first_mono_game", "first_mono_game.csproj", "{564DF4DA-884E-4A56-BB72-7EC0936A70DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564DF4DA-884E-4A56-BB72-7EC0936A70DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564DF4DA-884E-4A56-BB72-7EC0936A70DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564DF4DA-884E-4A56-BB72-7EC0936A70DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564DF4DA-884E-4A56-BB72-7EC0936A70DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41D16F2-F171-483B-9BBA-59BB5C70BEB6}
+	EndGlobalSection
+EndGlobal
