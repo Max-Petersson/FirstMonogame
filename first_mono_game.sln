@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32510.428
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first_mono_game", "first_mono_game.csproj", "{564DF4DA-884E-4A56-BB72-7EC0936A70DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "first_mono_game", "first_mono_game.csproj", "{564DF4DA-884E-4A56-BB72-7EC0936A70DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C95C3CCD-5A1A-4E5B-B5F7-125461B1E95A}"
+	ProjectSection(SolutionItems) = preProject
+		Board.cs = Board.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

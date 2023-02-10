@@ -1,8 +1,9 @@
 ﻿using System;
+using first_mono_game;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
-public class Board
+public class Board : IDrawMe
 {
 	private readonly Texture2D ground;
 	private readonly Texture2D goal;
@@ -24,6 +25,9 @@ public class Board
 	{
 
 	}
-	
-	
+
+    public void Draw(SpriteBatch sprite, Vector2 offset)
+    {
+        throw new NotImplementedException();
+    }
 }
